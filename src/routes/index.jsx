@@ -14,6 +14,7 @@ import Umarov from "../pages/Umarov";
 import Usmonxon from "../pages/Usmonxon";
 import Ziyomuhammad from "../pages/Ziyomuhammad";
 import Ashurov from "../pages/Ashurov";
+import Davronbek from "../pages/Davronbek";
 
 const RoutesController = () => {
   return (
@@ -21,6 +22,7 @@ const RoutesController = () => {
       <Route path="/" element={<Ibrohim />} />
 
       <Route path="/anvar" element={<Anvar />} />
+      <Route path="/davronbek" element={<Davronbek />} />
       <Route path="/dilshod" element={<Dilshod />} />
       <Route path="/emirxan" element={<Emirxan />} />
       <Route path="/ibrohim" element={<Ibrohim />} />
