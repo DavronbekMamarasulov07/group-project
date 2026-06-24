@@ -2,7 +2,7 @@ import React from 'react'
 
 const Shomuhammad = () => {
   return (
-    <div>Shomuhammad</div>
+    <div>Assalamualekom bu Shomuhammad</div>
   )
 }
 
