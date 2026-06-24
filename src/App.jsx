@@ -3,7 +3,7 @@ import RoutesController from './routes'
 
 const App = () => {
   return (
-    <div>
+    <div className=''>
       <RoutesController/> 
     </div>
   )
