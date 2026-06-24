@@ -25,7 +25,6 @@ const RoutesController = () => {
       <Route path="/davronbek" element={<Davronbek />} />
       <Route path="/dilshod" element={<Dilshod />} />
       <Route path="/emirxan" element={<Emirxan />} />
-      <Route path="/ibrohim" element={<Ibrohim />} />
       <Route path="/jonibek" element={<Jonibek />} />
       <Route path="/muhammadamin" element={<Muhammadamin />} />
       <Route path="/muhammadjon" element={<Muhammadjon />} />
