@@ -2,7 +2,7 @@ import React from 'react'
 
 const Usmonxon = () => {
   return (
-    <div>Usmonxon</div>
+    <div><p>salom men Usmonxon man </p></div>
   )
 }
 
