@@ -2,7 +2,7 @@ import React from 'react'
 
 const Sirojiddin = () => {
   return (
-    <div>Sirojiddin</div>
+    <div>Man Sirojiddin branchini kirittim</div>
   )
 }
 
