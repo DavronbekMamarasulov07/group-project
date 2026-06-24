@@ -2,7 +2,7 @@ import React from 'react'
 
 const Anvar = () => {
   return (
-    <div>Anvar</div>
+    <div>Salom menAnvar.jsx ga o'zgartirish kiritdim </div>
   )
 }
 
