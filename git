@@ -1,0 +1,5 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+      878       1     878      80084  cons1     197608 10:06:47 /usr/bin/bash
+      875       1     875      70876  cons0     197608 09:56:57 /usr/bin/sh
+      877     875     875      81208  cons0     197608 09:56:57 /c/Users/Admin/AppData/Local/Programs/Microsoft VS Code/Code
+      958     878     958      87704  cons1     197608 10:06:53 /usr/bin/PS
